@@ -1,2 +1,2 @@
 FROM almalinux:9
-RUN dnf insatll niginx -y 
+RUN dnf install niginx -y 
