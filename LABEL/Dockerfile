@@ -1,5 +1,5 @@
 FROM almalinux:9
-LABLE team="devops" \
+LABEL team="devops" \
        teamsize="3"
   
 
